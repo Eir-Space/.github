@@ -30,3 +30,7 @@ We welcome contributors of all backgrounds — developers, clinicians, researche
 * [CLAUDE.md](https://github.com/eir-open/eir-open/blob/main/CLAUDE.md) — Project architecture and conventions  
 * [EIR Health Data Spec](https://github.com/eir-open/eir-open/tree/main/open-health-standard/health-md-standard) — The open standard for health records  
 * Security concerns → **licensing@eir.space**
+
+### Discord
+We organize on Discord. Please join us!
+https://discord.gg/FScUXnEhq
